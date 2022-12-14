@@ -1,4 +1,4 @@
-public class Run {
-    public void metods
+public abstract class Run {
+    public abstract void metods();
 }
 
