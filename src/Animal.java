@@ -20,6 +20,5 @@ public abstract class Animal {
                 ", weigh=" + weigh +
                 '}';
     }
-
 }
 
